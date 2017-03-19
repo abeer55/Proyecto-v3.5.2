@@ -1,0 +1,18 @@
+﻿body {
+   
+}
+.table-hover tbody tr:hover > td {
+    /*Para cambiarle el color a la fila cuando pasamos el mouse por encima*/
+    background-color: #859FB8;
+}
+
+.table-hover thead tr:hover > td {
+    /*Para cambiarle el color a la fila cuando pasamos el mouse por encima*/
+    background-color: #0174DF;
+}
+
+
+
+
+
+

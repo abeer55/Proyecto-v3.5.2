@@ -1,0 +1,217 @@
+C:\Users\franc\Desktop\FACU2016\PAVII\Proyecto - PAV - FINAL\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\franc\Desktop\FACU2016\PAVII\Proyecto - PAV - FINAL\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\franc\Desktop\FACU2016\PAVII\Proyecto - PAV - FINAL\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\franc\Desktop\FACU2016\PAVII\Proyecto - PAV - FINAL\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\franc\Desktop\FACU2016\PAVII\Proyecto - PAV - FINAL\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\franc\Desktop\FACU2016\PAVII\Proyecto - PAV - FINAL\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\franc\Desktop\FACU2016\PAVII\Proyecto - PAV - FINAL\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\Trabajo Practico\Proyecto - PAV - v1.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Desktop\Trabajo Practico\Proyecto - PAV - v1.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\Trabajo Practico\Proyecto - PAV - v1.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\LioBlanco\Desktop\Trabajo Practico\Proyecto - PAV - v1.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\LioBlanco\Desktop\Trabajo Practico\Proyecto - PAV - v1.0\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\LioBlanco\Desktop\Trabajo Practico\Proyecto - PAV - v1.0\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Desktop\Trabajo Practico\Proyecto - PAV - v1.0\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-PAV-v1.5\Proyecto - PAV - v1.5\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-PAV-v1.5\Proyecto - PAV - v1.5\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-PAV-v1.5\Proyecto - PAV - v1.5\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-PAV-v1.5\Proyecto - PAV - v1.5\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-PAV-v1.5\Proyecto - PAV - v1.5\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-PAV-v1.5\Proyecto - PAV - v1.5\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-PAV-v1.5\Proyecto - PAV - v1.5\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\Proyecto v1.7\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Desktop\Proyecto v1.7\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\Proyecto v1.7\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\LioBlanco\Desktop\Proyecto v1.7\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\LioBlanco\Desktop\Proyecto v1.7\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\LioBlanco\Desktop\Proyecto v1.7\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Desktop\Proyecto v1.7\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\Proyecto v1.7.5\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Desktop\Proyecto v1.7.5\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\Proyecto v1.7.5\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\LioBlanco\Desktop\Proyecto v1.7.5\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\LioBlanco\Desktop\Proyecto v1.7.5\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\LioBlanco\Desktop\Proyecto v1.7.5\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Desktop\Proyecto v1.7.5\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v1.9.1\Proyecto v1.9\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v1.9.1\Proyecto v1.9\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v1.9.1\Proyecto v1.9\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v1.9.1\Proyecto v1.9\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v1.9.1\Proyecto v1.9\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v1.9.1\Proyecto v1.9\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v1.9.1\Proyecto v1.9\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\Proyecto-v1.9.2\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\LioBlanco\Desktop\Proyecto-v1.9.2\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Desktop\Proyecto-v1.9.2\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\Proyecto-v1.9.2\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Desktop\Proyecto-v1.9.2\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\Proyecto-v1.9.2\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\LioBlanco\Desktop\Proyecto-v1.9.2\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v1.9.5\Proyecto-v1.9.5\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v1.9.5\Proyecto-v1.9.5\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v1.9.5\Proyecto-v1.9.5\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v1.9.5\Proyecto-v1.9.5\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v1.9.5\Proyecto-v1.9.5\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v1.9.5\Proyecto-v1.9.5\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v1.9.5\Proyecto-v1.9.5\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\Maria\Desktop\Nati - Visual Studio\Proyecto-v1.9.6\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\Maria\Desktop\Nati - Visual Studio\Proyecto-v1.9.6\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\Maria\Desktop\Nati - Visual Studio\Proyecto-v1.9.6\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\Maria\Desktop\Nati - Visual Studio\Proyecto-v1.9.6\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\Maria\Desktop\Nati - Visual Studio\Proyecto-v1.9.6\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\Nati - Visual Studio\Proyecto-v1.9.6\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\Maria\Desktop\Nati - Visual Studio\Proyecto-v1.9.6\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\Nicolás\Desktop\Proyecto-v1.9.7\Proyecto-v1.9.7\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\Nicolás\Desktop\Proyecto-v1.9.7\Proyecto-v1.9.7\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\Nicolás\Desktop\Proyecto-v1.9.7\Proyecto-v1.9.7\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\Nicolás\Desktop\Proyecto-v1.9.7\Proyecto-v1.9.7\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\Nicolás\Desktop\Proyecto-v1.9.7\Proyecto-v1.9.7\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Nicolás\Desktop\Proyecto-v1.9.7\Proyecto-v1.9.7\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\Nicolás\Desktop\Proyecto-v1.9.7\Proyecto-v1.9.7\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\Maria\Desktop\Nati - Visual Studio\Proyecto-v1.9.9\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\Maria\Desktop\Nati - Visual Studio\Proyecto-v1.9.9\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\Maria\Desktop\Nati - Visual Studio\Proyecto-v1.9.9\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\Maria\Desktop\Nati - Visual Studio\Proyecto-v1.9.9\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\Maria\Desktop\Nati - Visual Studio\Proyecto-v1.9.9\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\Nati - Visual Studio\Proyecto-v1.9.9\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\Maria\Desktop\Nati - Visual Studio\Proyecto-v1.9.9\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\Proyecto-v2.0.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Desktop\Proyecto-v2.0.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\Proyecto-v2.0.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\LioBlanco\Desktop\Proyecto-v2.0.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\LioBlanco\Desktop\Proyecto-v2.0.0\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\LioBlanco\Desktop\Proyecto-v2.0.0\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Desktop\Proyecto-v2.0.0\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v2.0.0.1.0\Proyecto-v2.0.0.1.0\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v2.0.0.1.0\Proyecto-v2.0.0.1.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v2.0.0.1.0\Proyecto-v2.0.0.1.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v2.0.0.1.0\Proyecto-v2.0.0.1.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v2.0.0.1.0\Proyecto-v2.0.0.1.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v2.0.0.1.0\Proyecto-v2.0.0.1.0\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v2.0.0.1.0\Proyecto-v2.0.0.1.0\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v2.0.0.1.1\Proyecto-v2.0.0.1.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v2.0.0.1.1\Proyecto-v2.0.0.1.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v2.0.0.1.1\Proyecto-v2.0.0.1.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v2.0.0.1.1\Proyecto-v2.0.0.1.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v2.0.0.1.1\Proyecto-v2.0.0.1.0\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v2.0.0.1.1\Proyecto-v2.0.0.1.0\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v2.0.0.1.1\Proyecto-v2.0.0.1.0\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\Proyecto-v2.2\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Desktop\Proyecto-v2.2\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\Proyecto-v2.2\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\LioBlanco\Desktop\Proyecto-v2.2\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\LioBlanco\Desktop\Proyecto-v2.2\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\LioBlanco\Desktop\Proyecto-v2.2\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Desktop\Proyecto-v2.2\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\Maria\Desktop\Proyecto Integrador\Proyecto-v2.4\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\Maria\Desktop\Proyecto Integrador\Proyecto-v2.4\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\Maria\Desktop\Proyecto Integrador\Proyecto-v2.4\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\Maria\Desktop\Proyecto Integrador\Proyecto-v2.4\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\Maria\Desktop\Proyecto Integrador\Proyecto-v2.4\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\Proyecto Integrador\Proyecto-v2.4\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\Maria\Desktop\Proyecto Integrador\Proyecto-v2.4\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.5\Proyecto-v2.5\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.5\Proyecto-v2.5\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.5\Proyecto-v2.5\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.5\Proyecto-v2.5\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.5\Proyecto-v2.5\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.5\Proyecto-v2.5\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.5\Proyecto-v2.5\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\pav 2.6\Proyecto-v2.6\Proyecto-v2.6\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Desktop\pav 2.6\Proyecto-v2.6\Proyecto-v2.6\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\pav 2.6\Proyecto-v2.6\Proyecto-v2.6\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\LioBlanco\Desktop\pav 2.6\Proyecto-v2.6\Proyecto-v2.6\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\LioBlanco\Desktop\pav 2.6\Proyecto-v2.6\Proyecto-v2.6\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\LioBlanco\Desktop\pav 2.6\Proyecto-v2.6\Proyecto-v2.6\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Desktop\pav 2.6\Proyecto-v2.6\Proyecto-v2.6\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.6\Proyecto Final v2.6\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.6\Proyecto Final v2.6\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.6\Proyecto Final v2.6\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.6\Proyecto Final v2.6\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.6\Proyecto Final v2.6\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.6\Proyecto Final v2.6\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.6\Proyecto Final v2.6\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.7\Proyecto-v2.7\Proyecto Final v2.6\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.7\Proyecto-v2.7\Proyecto Final v2.6\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.7\Proyecto-v2.7\Proyecto Final v2.6\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.7\Proyecto-v2.7\Proyecto Final v2.6\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.7\Proyecto-v2.7\Proyecto Final v2.6\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.7\Proyecto-v2.7\Proyecto Final v2.6\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.7\Proyecto-v2.7\Proyecto Final v2.6\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.7\Proyecto-v2.7\Proyecto Final v2.7\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.7\Proyecto-v2.7\Proyecto Final v2.7\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.7\Proyecto-v2.7\Proyecto Final v2.7\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.7\Proyecto-v2.7\Proyecto Final v2.7\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.7\Proyecto-v2.7\Proyecto Final v2.7\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.7\Proyecto-v2.7\Proyecto Final v2.7\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.7\Proyecto-v2.7\Proyecto Final v2.7\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.8\Proyecto-v2.8\Proyecto Final v2.8\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.8\Proyecto-v2.8\Proyecto Final v2.8\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.8\Proyecto-v2.8\Proyecto Final v2.8\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.8\Proyecto-v2.8\Proyecto Final v2.8\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.8\Proyecto-v2.8\Proyecto Final v2.8\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.8\Proyecto-v2.8\Proyecto Final v2.8\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v2.8\Proyecto-v2.8\Proyecto Final v2.8\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\Proyecto-v3.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Desktop\Proyecto-v3.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\Proyecto-v3.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\LioBlanco\Desktop\Proyecto-v3.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\LioBlanco\Desktop\Proyecto-v3.0\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\LioBlanco\Desktop\Proyecto-v3.0\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Desktop\Proyecto-v3.0\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v3.0\Proyecto-v3.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v3.0\Proyecto-v3.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v3.0\Proyecto-v3.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v3.0\Proyecto-v3.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v3.0\Proyecto-v3.0\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v3.0\Proyecto-v3.0\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v3.0\Proyecto-v3.0\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Downloads\Proyecto-v3.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Downloads\Proyecto-v3.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Downloads\Proyecto-v3.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\LioBlanco\Downloads\Proyecto-v3.0\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\LioBlanco\Downloads\Proyecto-v3.0\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\LioBlanco\Downloads\Proyecto-v3.0\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Downloads\Proyecto-v3.0\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\Proyecto-v3.2\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Desktop\Proyecto-v3.2\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\Proyecto-v3.2\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\LioBlanco\Desktop\Proyecto-v3.2\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\LioBlanco\Desktop\Proyecto-v3.2\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\LioBlanco\Desktop\Proyecto-v3.2\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Desktop\Proyecto-v3.2\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v3.2\Proyecto-v3.2\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v3.2\Proyecto-v3.2\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v3.2\Proyecto-v3.2\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v3.2\Proyecto-v3.2\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v3.2\Proyecto-v3.2\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v3.2\Proyecto-v3.2\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\Nicolás\Dropbox\Nati\Proyecto-v3.2\Proyecto-v3.2\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\Proyecto-v3.4\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Desktop\Proyecto-v3.4\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\Proyecto-v3.4\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\LioBlanco\Desktop\Proyecto-v3.4\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\LioBlanco\Desktop\Proyecto-v3.4\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\LioBlanco\Desktop\Proyecto-v3.4\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Desktop\Proyecto-v3.4\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\Proyecto-v3.5.1\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Desktop\Proyecto-v3.5.1\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\LioBlanco\Desktop\Proyecto-v3.5.1\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\LioBlanco\Desktop\Proyecto-v3.5.1\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\LioBlanco\Desktop\Proyecto-v3.5.1\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\LioBlanco\Desktop\Proyecto-v3.5.1\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\LioBlanco\Desktop\Proyecto-v3.5.1\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v3.5.1\Proyecto-v3.5.1\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v3.5.1\Proyecto-v3.5.1\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v3.5.1\Proyecto-v3.5.1\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v3.5.1\Proyecto-v3.5.1\ProyectoIntegrador\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v3.5.1\Proyecto-v3.5.1\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v3.5.1\Proyecto-v3.5.1\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\franc\Desktop\FACU2016\PAVII\TP\Proyecto-v3.5.1\Proyecto-v3.5.1\ProyectoIntegrador\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
+C:\Users\Lisandro\Desktop\Trabajos\Proyecto-v3.5.2\IngelunNegocio\bin\Debug\IngelunNegocio.dll
+C:\Users\Lisandro\Desktop\Trabajos\Proyecto-v3.5.2\IngelunNegocio\bin\Debug\IngelunNegocio.pdb
+C:\Users\Lisandro\Desktop\Trabajos\Proyecto-v3.5.2\IngelunNegocio\bin\Debug\IngelunEntidades.dll
+C:\Users\Lisandro\Desktop\Trabajos\Proyecto-v3.5.2\IngelunNegocio\bin\Debug\IngelunEntidades.pdb
+C:\Users\Lisandro\Desktop\Trabajos\Proyecto-v3.5.2\IngelunNegocio\obj\Debug\IngelunNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Lisandro\Desktop\Trabajos\Proyecto-v3.5.2\IngelunNegocio\obj\Debug\IngelunNegocio.dll
+C:\Users\Lisandro\Desktop\Trabajos\Proyecto-v3.5.2\IngelunNegocio\obj\Debug\IngelunNegocio.pdb
